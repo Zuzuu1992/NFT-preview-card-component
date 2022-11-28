@@ -14,10 +14,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.png)
-
 ### Links
 
 - Solution URL: [https://github.com/Zuzuu1992/NFT-preview-card-component.git)
